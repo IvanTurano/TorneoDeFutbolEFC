@@ -1,0 +1,14 @@
+D:\c#\TorneoFutbolEntity\BD\bin\Debug\net8.0\BD.deps.json
+D:\c#\TorneoFutbolEntity\BD\bin\Debug\net8.0\BD.runtimeconfig.json
+D:\c#\TorneoFutbolEntity\BD\bin\Debug\net8.0\BD.dll
+D:\c#\TorneoFutbolEntity\BD\bin\Debug\net8.0\BD.pdb
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.csproj.AssemblyReference.cache
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.AssemblyInfoInputs.cache
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.AssemblyInfo.cs
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.csproj.CoreCompileInputs.cache
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.dll
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\refint\BD.dll
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.pdb
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\BD.genruntimeconfig.cache
+D:\c#\TorneoFutbolEntity\BD\obj\Debug\net8.0\ref\BD.dll
